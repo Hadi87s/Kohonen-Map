@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "https://github.com/Hadi87s/Kohonen-Map/", // Replace with your GitHub URL
+    "homepage": "https://github.com/Hadi87s/Kohonen-Map/",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
