@@ -81,9 +81,6 @@ MIT License - feel free to use this project for learning, modification, and dist
 
 ---
 
-<div align="center">
-  Built with 💜 using React and TypeScript
-</div>
 
 [Visit The Website](https://hadi78s.netlify.app/)
 
