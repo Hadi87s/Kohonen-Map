@@ -1,7 +1,5 @@
 # Kohonen Map Solver
 
-![Interactive Neural Network Visualization](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=2000)
-
 A sophisticated interactive visualization tool for exploring Self-Organizing Maps (SOMs), also known as Kohonen Maps. This application demonstrates neural network learning in real-time through color space organization.
 
 ## ✨ Features
