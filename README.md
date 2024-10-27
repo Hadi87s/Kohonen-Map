@@ -87,5 +87,6 @@ MIT License - feel free to use this project for learning, modification, and dist
   Built with 💜 using React and TypeScript
 </div>
 
- ```bash[Visit The Website](https://hadi78s.netlify.app/)
+ ```bash
+[Visit The Website](https://hadi78s.netlify.app/)
 
