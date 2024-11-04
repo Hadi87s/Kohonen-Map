@@ -82,5 +82,5 @@ MIT License - feel free to use this project for learning, modification, and dist
 ---
 
 
-[Visit The Website](https://raven87s.netlify.app/)
+[Visit The Website](https://kohonen-map.netlify.app/)
 
