@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Play, RefreshCw, Trash2, Download } from 'lucide-react';
 import { useKohonenStore } from '../store/kohonenStore';
 
@@ -60,6 +60,9 @@ export default function Controls() {
                             <option value="10">10 x 10</option>
                             <option value="20">20 x 20</option>
                             <option value="30">30 x 30</option>
+                            <option value="70">70 x 70</option>
+                            <option value="100">100 x 100</option>
+                            <option value="200">200 x 200</option>
                         </select>
                     </div>
                 </div>
