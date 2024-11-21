@@ -81,7 +81,7 @@ MIT License - feel free to use this project for learning, modification, and dist
 
 ---
 
-## This project was made using Bolt.new tool, I did the prompt optimization and bug fixing. 
+#### This project was made using Bolt.new tool, I did the prompt optimization and bug fixing. 
 
 [Visit The Website](https://kohonen-map.netlify.app/)
 
